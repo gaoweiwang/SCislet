@@ -13,7 +13,7 @@ snATACseq: https://figshare.com/articles/dataset/XXX
 
 ## 3, download large files:
 snATAC-seq data (http://169.228.232.194/~mmallick/o/XXXX.tar.gz) \
-multiome data (http://169.228.232.194/~mmallick/o/XXXX.tar.gz)
+scRNA-seq data (http://169.228.232.194/~mmallick/o/XXXX.tar.gz)
   
 # Figures:
 Use the cell_cluster.ipynb notebook to reproduce cell clustering results \
