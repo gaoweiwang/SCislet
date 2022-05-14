@@ -1,7 +1,5 @@
 # Download raw data
-Download 10x snATAC-seq raw data from NCBI Gene Expression Omnibus (GSEXXXX) \
-Download 10x snRNA-seq raw data from NCBI Gene Expression Omnibus (GSEXXXX) \
-Download 10x multiome raw data from NCBI Gene Expression Omnibus (GSEXXXX)
+Download 10x snATAC-seq,10x snRNA-seq, Chip-seq raw data from NCBI Gene Expression Omnibus (GSE202500)
 
 # Download processed data to reproduce figures
 ## 1, download files less than 25M from github data folder:
