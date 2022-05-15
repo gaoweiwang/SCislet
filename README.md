@@ -4,7 +4,7 @@ Download 10x snATAC-seq,10x snRNA-seq, Chip-seq raw data from NCBI Gene Expressi
 # Download processed data to reproduce figures
 snATAC-seq data (http://169.228.232.194/~mmallick/o/SCislet.tar.gz)
 
-# Scripts:
+# Code:
 Use the cell_cluster.ipynb notebook to reproduce cell clustering results \
 Use the downstream_analysis.ipynb notebook and XX. R to reproduce downstream analyses 
 
