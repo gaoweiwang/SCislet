@@ -2,23 +2,11 @@
 Download 10x snATAC-seq,10x snRNA-seq, Chip-seq raw data from NCBI Gene Expression Omnibus (GSE202500)
 
 # Download processed data to reproduce figures
-## 1, download files less than 25M from github data folder:
-https://github.com/gaoweiwang/SCislet
+snATAC-seq data (http://169.228.232.194/~mmallick/o/SCislet.tar.gz)
 
-## 2, download files from figshare:
-multiome: https://figshare.com/articles/dataset/XXX \
-snATACseq: https://figshare.com/articles/dataset/XXX
-
-## 3, download large files:
-snATAC-seq data (http://169.228.232.194/~mmallick/o/XXXX.tar.gz) \
-scRNA-seq data (http://169.228.232.194/~mmallick/o/XXXX.tar.gz)
-  
-# Figures:
-Use the cell_cluster.ipynb notebook to reproduce cell clustering results \
-Use the downstream_analysis.ipynb notebook to reproduce downstream analyses
-  
 # Scripts:
-Use XXXX.ipynb to train classifier to XXXX
+Use the cell_cluster.ipynb notebook to reproduce cell clustering results \
+Use the downstream_analysis.ipynb notebook and XX. R to reproduce downstream analyses 
 
 # Session information
 Platform: x86_64-conda_cos6-linux-gnu (64-bit) \
