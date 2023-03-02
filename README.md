@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/490007552.svg)](https://sandbox.zenodo.org/badge/latestdoi/490007552)
+
 # Download raw data
 Download 10x snATAC-seq,10x snRNA-seq, Chip-seq raw data from NCBI Gene Expression Omnibus (GSE202500)
 
